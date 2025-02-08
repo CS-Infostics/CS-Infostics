@@ -22,14 +22,15 @@
 
 ## 📢 Latest Updates
 
-- 🔥 Currently working on **Store Sales Dashboard in Power BI**
-- 📌 New tutorial on **Google Cloud Platform (GCP) Coming Soon!**
+- 🔥 Internship and Job Opportunities
+- 📌 Latest Trends and Technologies
 - 💡 Join our community and collaborate on open-source projects!
 
 ## 💬 Connect with Us
 
 <p align="left">
 <a href="https://twitter.com/chaitanya_7700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CS Infostics Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sangita-mahala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CS Infostics LinkedIn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chaitanya-yadav-684472209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CS Infostics LinkedIn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/csinfostics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CS Infostics YouTube" height="30" width="40" /></a>
 </p>
