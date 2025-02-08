@@ -46,16 +46,6 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-<div style="display: flex; flex-direction: row;">
-  <a href="#">
-    <img alt="CS Infostics Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=csinfostics&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px">
-  </a>
-  <a href="#">
-    <img align="left" alt="CS Infostics Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csinfostics&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="350px">
-  </a>
-</div>
 
 
 ---
